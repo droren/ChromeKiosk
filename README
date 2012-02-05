@@ -1,0 +1,15 @@
+This project contains files needed to using a pretty VANILLIA ubuntu installation, install
+a xsession handler that limits the possibility to access the computer as much as possible, 
+and starting up a chromium-browser window in fullscreen, displaying defined contents. 
+
+Could be used as a base to display for example build-monitor webpage. 
+
+Files: 
+
+To be installed in /usr/share/xsessions/.
+- chromeKiosk.sh 
+- kiosk.desktop
+
+Settings to be set in ~<userid>/.config/chromium/Default
+- Preferences
+
