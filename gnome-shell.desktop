@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GNOME
+Comment=This session logs you into GNOME
+Exec=gnome-session --session=gnome
+TryExec=gnome-shell
+Icon=
+Type=Application
+X-Ubuntu-Gettext-Domain=gnome-session-3.0

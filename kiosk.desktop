@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kiosk Mode
+Comment=Chromium Kiosk Mode
+Exec=/usr/share/xsessions/chromeKiosk.sh
+Type=Application
+
