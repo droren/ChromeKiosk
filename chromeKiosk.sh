@@ -18,4 +18,4 @@ xrandr --output LVDS1 --off
 xterm
 
 # Main browser loop.
-while true; do chromium-browser %u --proxy-pac-url="http://www-proxy.ericsson.se:3132/accelerated_pac_base.pac" --kiosk --start-maximized; sleep 5s; done
+while true; do chromium-browser %u --proxy-pac-url="<insert proxy here>" --kiosk --start-maximized; sleep 5s; done
